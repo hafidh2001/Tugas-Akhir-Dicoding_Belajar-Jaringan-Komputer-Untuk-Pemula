@@ -92,6 +92,9 @@ sudo service nginx restart
 ![](screenshoot/7.png)
 
 7. Tampilan akhir website pada port:3000
-   ![](screenshoot/9.png)
-   Tampilan website ketika rate limit berjalan (6 request per menit / 1 request setiap 10 detik)
-   ![](screenshoot/8.png)
+
+![](screenshoot/9.png)
+
+Tampilan website ketika rate limit berjalan (6 request per menit / 1 request setiap 10 detik)
+
+![](screenshoot/8.png)
